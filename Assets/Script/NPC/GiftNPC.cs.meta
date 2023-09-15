@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f7d4f3b7bb29c945ab2a41391413b97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Alert: {instanceID: 0}
+  - QuestIcon: {fileID: 21300000, guid: 056826433344f0e4085c13b17fee417d, type: 3}
+  - IdleIcon: {fileID: 21300000, guid: 88819212da39fd0449510c24a9758a76, type: 3}
+  - Gift: {instanceID: 0}
+  - Idle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

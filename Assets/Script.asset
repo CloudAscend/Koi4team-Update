@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a38146e98534c78468da082458378625, type: 3}
+  m_Name: Script
+  m_EditorClassIdentifier: 
+  TypingSpeed: 10
+  CanSkip: 0
+  Script:
+  - Name: "\uAC00\uB0A0\uD018"
+    Sctipt: "\u3134\u3147\u3139\u3134\u3147\u3139\u3134\u3147\u3139\u3147\u3134\u3139"
+    Transition: 0
+  - Name: "\uC8FC\uC778\uACF5"
+    Sctipt: "\u3141\u3134\u3147\u3141\u3134\u3147\u3141\u3134\u3147"
+    Transition: 0
+  - Name: sd
+    Sctipt: sdf
+    Transition: 0
+  - Name: sdf
+    Sctipt: sdf
+    Transition: 0
